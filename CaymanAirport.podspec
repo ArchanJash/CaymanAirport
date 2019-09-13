@@ -20,7 +20,7 @@ spec.ios.deployment_target = "12.1"
 spec.swift_version = "4.2"
 
 spec.source        = { :git => "https://github.com/ArchanJash/CaymanAirport.git", :tag => "0.0.4" }
-
+spec.source_files  = "CaymanAirport/**/*.{h,m,swift}"
 
 end
 
