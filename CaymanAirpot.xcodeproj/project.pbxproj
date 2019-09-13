@@ -11,6 +11,7 @@
 		44E3DDD8232B79E00062DAC7 /* CaymanAirpotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E3DDD7232B79E00062DAC7 /* CaymanAirpotTests.swift */; };
 		44E3DDDA232B79E00062DAC7 /* CaymanAirpot.h in Headers */ = {isa = PBXBuildFile; fileRef = 44E3DDCC232B79E00062DAC7 /* CaymanAirpot.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		44E3DDE4232B79F00062DAC7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E3DDE3232B79F00062DAC7 /* ViewController.swift */; };
+		44E3DDE6232B88910062DAC7 /* Check.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E3DDE5232B88910062DAC7 /* Check.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +32,7 @@
 		44E3DDD7232B79E00062DAC7 /* CaymanAirpotTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaymanAirpotTests.swift; sourceTree = "<group>"; };
 		44E3DDD9232B79E00062DAC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		44E3DDE3232B79F00062DAC7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		44E3DDE5232B88910062DAC7 /* Check.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Check.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				44E3DDCC232B79E00062DAC7 /* CaymanAirpot.h */,
 				44E3DDCD232B79E00062DAC7 /* Info.plist */,
 				44E3DDE3232B79F00062DAC7 /* ViewController.swift */,
+				44E3DDE5232B88910062DAC7 /* Check.swift */,
 			);
 			path = CaymanAirpot;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44E3DDE6232B88910062DAC7 /* Check.swift in Sources */,
 				44E3DDE4232B79F00062DAC7 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
