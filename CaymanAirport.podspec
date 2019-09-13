@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
 spec.name         = "CaymanAirport"
-spec.version      = "0.0.3"
+spec.version      = "0.0.4"
 spec.summary      = " SSID third party library."
 
 spec.description  = <<-DESC
@@ -19,7 +19,7 @@ spec.static_framework = true
 spec.ios.deployment_target = "12.1"
 spec.swift_version = "4.2"
 
-spec.source        = { :git => "https://github.com/ArchanJash/CaymanAirport.git", :tag => "0.0.2" }
+spec.source        = { :git => "https://github.com/ArchanJash/CaymanAirport.git", :tag => "0.0.4" }
 
 
 end
